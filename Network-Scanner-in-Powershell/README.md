@@ -45,3 +45,15 @@ To use the script, follow these steps:
 To view the usage and help statement, execute the script with `-h` or without any parameters.
 ```bash
 ./Port-Scan.ps1 -h
+
+Features
+Customizable Scanning: Define target IP, port range, timeout, and scan speed.
+Default Values: If parameters are not provided, default values are used.
+Identifies Services: Attempts to identify services associated with open ports based on common port/service mappings.
+Fast Scan Option: Conducts a quick scan using well-known ports for faster results.
+Contributing
+Contributions, issues, and feature requests are welcome! Feel free to create pull requests or report any bugs.
+
+
+Feel free to adjust the GitHub repository URL, installation instructions, or any additional details to match your specific repository setup and preferences.
+
