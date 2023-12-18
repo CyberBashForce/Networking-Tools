@@ -45,7 +45,7 @@ To use the script, follow these steps:
 To view the usage and help statement, execute the script with `-h` or without any parameters.
 ```bash
 ./Port-Scan.ps1 -h
-
+```
 Features
 Customizable Scanning: Define target IP, port range, timeout, and scan speed.
 Default Values: If parameters are not provided, default values are used.
